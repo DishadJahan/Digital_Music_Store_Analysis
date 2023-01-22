@@ -6,3 +6,14 @@ by answering simple and complex questions based on geopgraphical growth, purchas
 of revenue and best customer in terms of purchase rate.
 
 This analysis will provide great insight to the stake holders to take right and effective decisions. 
+
+Database and Tools
+
+Postgre SQL
+
+PgAdmin4
+
+
+Schema- Music Store Database 
+
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/123267703/213932566-62f9c502-9934-43e8-a5b1-945ece5879ce.png)
